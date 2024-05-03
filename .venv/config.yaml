@@ -1,0 +1,10 @@
+path: "s3://cv-train-test-data-dev/dataset-20240407_102817/training_data/"
+train: "images/train/"
+val:  "images/validation/"
+
+
+names:
+  0: Pallets
+  1: Vehicles
+  2: People
+  3: Goods
